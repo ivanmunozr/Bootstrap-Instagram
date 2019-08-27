@@ -1,0 +1,16 @@
+/* not active */
+.nav-pills .nav-item .nav-link:not(.active) {
+    background-color: white;
+    color:darkgray;
+}
+
+/*active*/
+.nav-pills .nav-item .nav-link {
+    background-color:darkgray;
+    color: white;
+}
+
+
+.fa-cog{
+    color:darkgray;
+}
